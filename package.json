@@ -1,0 +1,14 @@
+{
+  "name": "honey",
+  "version": "1.0.0",
+  "description": "express",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "honey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
